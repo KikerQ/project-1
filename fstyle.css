@@ -47,7 +47,7 @@ b {
 html,
 body,
 .full_page_wrap {
-  height: 100%;
+  max-width: 768px;
 }
 
 a {
@@ -64,14 +64,13 @@ body {
   background: url("https://f-change.biz/img/backs/body_back.png");
 }
 
-body > .full_page_wrap {
+/* body > .full_page_wrap {
   height: auto;
   min-height: 100%;
-}
+} */
 .full_page {
   padding-bottom: 177px;
   margin: 0 auto;
-  width: 1000px;
 } /* must be same height as the footer */
 #footer {
   position: relative;
@@ -81,24 +80,24 @@ body > .full_page_wrap {
 }
 
 /* CLEAR FIX*/
-.clearfix:after {
+/* .clearfix:after {
   content: ".";
-  display: block;
+  
   height: 0;
   clear: both;
   visibility: hidden;
-}
-.clearfix {
+} */
+/* .clearfix {
   display: inline-block;
-}
+} */
 
 /* Hides from IE-mac \*/
-* html .clearfix {
+/* * html .clearfix {
   height: 1%;
 }
 .clearfix {
   display: block;
-}
+} */
 /* End hide from IE-mac */
 
 .arial_font {
@@ -106,19 +105,18 @@ body > .full_page_wrap {
 }
 
 .header {
+  max-width: 100%;
   height: 130px;
-  overflow: hidden;
+  display: flex;
+  justify-content: center;
 }
 
 .site_logo {
   background: url("https://f-change.biz/img/buttons/logo.png") repeat scroll 0 0
     rgba(0, 0, 0, 0);
-  display: block;
   height: 46px;
-  position: absolute;
-  top: 41px;
-  width: 236px;
 }
+
 .head_info_wrap .head_contacts {
   color: #43aee6;
   font-size: 16px;
@@ -127,7 +125,6 @@ body > .full_page_wrap {
   width: 440px;
 }
 .head_info_wrap .head_contacts a {
-  display: inline-block;
   font-size: 16px;
   height: 25px;
   /*margin-top: 7px;*/
@@ -137,13 +134,11 @@ body > .full_page_wrap {
     url("https://f-change.biz/img/buttons/head_phone_btn.png") no-repeat scroll
     1px -1px;
   color: #43aee6;
-  display: inline-block;
+
   font-size: 16px;
   height: 25px;
   line-height: 23px;
   padding-left: 30px;
-  position: relative;
-  top: 1px;
 }
 a.head_skype_link {
   background: url("https://f-change.biz/img/buttons/skype_btn.png") no-repeat
@@ -162,22 +157,19 @@ a.head_mail_link {
 }
 
 .head_info_wrap {
-  float: right;
 }
 
 .head_contacts {
-  float: left;
 }
 
 .head_login {
-  float: right;
   padding-right: 40px;
   width: 270px;
 }
 
 .head_login .vertical_line {
   background-color: #c0e1ee;
-  float: left;
+
   height: 75px;
   margin-bottom: 10px;
   margin-right: 50px;
