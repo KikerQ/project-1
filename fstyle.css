@@ -44,10 +44,10 @@ b {
   font-family: GothicB, Verdana, Arial, Helvetica, sans-serif;
   font-weight: 300;
 }
-html,
-body,
+
 .full_page_wrap {
   max-width: 768px;
+  margin: 0 auto;
 }
 
 a {
