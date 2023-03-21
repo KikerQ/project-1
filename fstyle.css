@@ -61,7 +61,7 @@ a:hover {
 }
 
 body {
-  background: url("https.f-change.biz/img/backs/body_back.png");
+  background: url("https/f-change.bizhttps.f-change.biz/img/backs/body_back.png");
 }
 
 body > .full_page_wrap {
@@ -111,7 +111,8 @@ body > .full_page_wrap {
 }
 
 .site_logo {
-  background: url("/img/buttons/logo.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/buttons/logo.png") repeat scroll 0 0
+    rgba(0, 0, 0, 0);
   display: block;
   height: 46px;
   position: absolute;
@@ -132,8 +133,9 @@ body > .full_page_wrap {
   /*margin-top: 7px;*/
 }
 .head_phone_link {
-  background: rgba(0, 0, 0, 0) url("/img/buttons/head_phone_btn.png") no-repeat
-    scroll 1px -1px;
+  background: rgba(0, 0, 0, 0)
+    url("https/f-change.biz/img/buttons/head_phone_btn.png") no-repeat scroll
+    1px -1px;
   color: #43aee6;
   display: inline-block;
   font-size: 16px;
@@ -144,14 +146,14 @@ body > .full_page_wrap {
   top: 1px;
 }
 a.head_skype_link {
-  background: url("/img/buttons/skype_btn.png") no-repeat scroll 0 0
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/buttons/skype_btn.png") no-repeat
+    scroll 0 0 rgba(0, 0, 0, 0);
   padding-left: 30px;
 }
 
 a.head_mail_link {
-  background: url("/img/buttons/mail_btn.png") no-repeat scroll 0 0
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/buttons/mail_btn.png") no-repeat
+    scroll 0 0 rgba(0, 0, 0, 0);
   margin-left: 10px;
   padding-left: 31px;
 }
@@ -192,8 +194,8 @@ a.head_mail_link {
 
 .head_login input[type="text"],
 .head_login input[type="password"] {
-  background: url("/img/backs/input_text_back.png") repeat scroll 0 0
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/backs/input_text_back.png") repeat
+    scroll 0 0 rgba(0, 0, 0, 0);
   border: 1px solid #68b9e8;
   height: 25px;
   margin-bottom: 2px;
@@ -358,8 +360,8 @@ a.fchange_button {
 }
 
 .foot_parthners {
-  background: url("/img/backs/foot_line_1.png") repeat-x scroll 0 0
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/backs/foot_line_1.png") repeat-x
+    scroll 0 0 rgba(0, 0, 0, 0);
   margin-top: 4px;
   padding-bottom: 24px;
   padding-top: 25px;
@@ -367,8 +369,8 @@ a.fchange_button {
 }
 
 .foot_copyrait {
-  background: url("/img/backs/foot_line_2.png") repeat-x scroll 0 0
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/backs/foot_line_2.png") repeat-x
+    scroll 0 0 rgba(0, 0, 0, 0);
   font-size: 14px;
   height: 20px;
   padding-bottom: 10px;
@@ -481,58 +483,60 @@ a.fchange_button {
 }
 
 .qiwi_rub_obmen_btn {
-  background: url("/img/pay_systems/qiwi_icon.png") no-repeat scroll 55px 6px
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/pay_systems/qiwi_icon.png") no-repeat
+    scroll 55px 6px rgba(0, 0, 0, 0);
 }
 
 .sys_recivers_wrap .qiwi_rub_obmen_btn {
-  background: url("/img/pay_systems/qiwi_icon.png") no-repeat scroll 68px 6px
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/pay_systems/qiwi_icon.png") no-repeat
+    scroll 68px 6px rgba(0, 0, 0, 0);
 }
 
 .pm_usd_obmen_btn {
-  background: url("/img/pay_systems/pm_icon.png") no-repeat scroll 55px 6px
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/pay_systems/pm_icon.png") no-repeat
+    scroll 55px 6px rgba(0, 0, 0, 0);
 }
 
 .sys_recivers_wrap .pm_usd_obmen_btn {
-  background: url("/img/pay_systems/pm_icon.png") no-repeat scroll 68px 6px
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/pay_systems/pm_icon.png") no-repeat
+    scroll 68px 6px rgba(0, 0, 0, 0);
 }
 
 .yandex_obmen_btn {
-  background: url("/img/pay_systems/jandex_dengi_icon.png") no-repeat scroll
-    55px 6px rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/pay_systems/jandex_dengi_icon.png")
+    no-repeat scroll 55px 6px rgba(0, 0, 0, 0);
 }
 
 .sys_recivers_wrap .yandex_obmen_btn {
-  background: url("/img/pay_systems/jandex_dengi_icon.png") no-repeat scroll
-    68px 6px rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/pay_systems/jandex_dengi_icon.png")
+    no-repeat scroll 68px 6px rgba(0, 0, 0, 0);
 }
 
 .okpay_usd_obmen_btn {
-  background: url("/img/pay_systems/okpay_icon.png") no-repeat scroll 53px 4px
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/pay_systems/okpay_icon.png") no-repeat
+    scroll 53px 4px rgba(0, 0, 0, 0);
 }
 .sys_recivers_wrap .okpay_usd_obmen_btn {
-  background: url("/img/pay_systems/okpay_icon.png") no-repeat scroll 66px 4px
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/pay_systems/okpay_icon.png") no-repeat
+    scroll 66px 4px rgba(0, 0, 0, 0);
 }
 .advcash_usd_obmen_btn {
-  background: rgba(0, 0, 0, 0) url("/img/pay_systems/advc_icon.png") no-repeat
-    scroll 53px 4px;
+  background: rgba(0, 0, 0, 0)
+    url("https/f-change.biz/img/pay_systems/advc_icon.png") no-repeat scroll
+    53px 4px;
 }
 .sys_recivers_wrap .advcash_usd_obmen_btn {
-  background: url("/img/pay_systems/advc_icon.png") no-repeat scroll 66px 4px
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/pay_systems/advc_icon.png") no-repeat
+    scroll 66px 4px rgba(0, 0, 0, 0);
 }
 .card_rub_obmen_btn {
-  background: rgba(0, 0, 0, 0) url("/img/pay_systems/cardrub_icon.png")
-    no-repeat scroll 53px 4px;
+  background: rgba(0, 0, 0, 0)
+    url("https/f-change.biz/img/pay_systems/cardrub_icon.png") no-repeat scroll
+    53px 4px;
 }
 .sys_recivers_wrap .card_rub_obmen_btn {
-  background: url("/img/pay_systems/cardrub_icon.png") no-repeat scroll 66px 4px
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/pay_systems/cardrub_icon.png")
+    no-repeat scroll 66px 4px rgba(0, 0, 0, 0);
 }
 .right_side_wrap {
   float: right;
@@ -751,7 +755,7 @@ h1.page_title {
 }
 /*
 .user_actions_wrap input.fchange_input[identificator="qiwi_rub"] {
-    background-image: url("/img/pay_systems/backs/qiwi_input_back.png");
+    background-image: url("https/f-change.biz/img/pay_systems/backs/qiwi_input_back.png");
     background-repeat: no-repeat;
     padding-left: 20px;
     width: 180px;
@@ -760,7 +764,7 @@ h1.page_title {
     
 }
 .user_actions_wrap input.fchange_input[identificator="pm_usd"] {
-    background-image: url("/img/pay_systems/backs/pm_input_back.png");
+    background-image: url("https/f-change.biz/img/pay_systems/backs/pm_input_back.png");
     background-repeat: no-repeat;
     padding-left: 20px;
     width: 180px;
@@ -821,8 +825,8 @@ tr.form_errors td {
 }
 
 .close_modal_win_btn {
-  background: url("/img/finances/btn_close.png") repeat scroll 0 0
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/finances/btn_close.png") repeat scroll
+    0 0 rgba(0, 0, 0, 0);
   cursor: pointer;
   display: block;
   height: 23px;
@@ -845,8 +849,8 @@ tr.form_errors td {
 }
 
 .obmen_confirm_strelka {
-  background: url("/img/buttons/blue_right_arrow.png") no-repeat scroll 0 35px
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/buttons/blue_right_arrow.png")
+    no-repeat scroll 0 35px rgba(0, 0, 0, 0);
   float: left;
   height: 100px;
   width: 60px;
@@ -877,18 +881,18 @@ table.obmen_confirm_tbl {
 }
 
 .qiwi_rub_confirm_sys_icon {
-  background: url("/img/pay_systems/qiwi_icon.png") no-repeat scroll 0 0
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/pay_systems/qiwi_icon.png") no-repeat
+    scroll 0 0 rgba(0, 0, 0, 0);
 }
 
 .pm_usd_confirm_sys_icon {
-  background: url("/img/pay_systems/pm_icon.png") no-repeat scroll 0 0
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/pay_systems/pm_icon.png") no-repeat
+    scroll 0 0 rgba(0, 0, 0, 0);
 }
 
 .yandex_confirm_sys_icon {
-  background: url("/img/pay_systems/jandex_dengi_icon.png") no-repeat scroll 0 0
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/pay_systems/jandex_dengi_icon.png")
+    no-repeat scroll 0 0 rgba(0, 0, 0, 0);
 }
 
 .submit_wrap {
@@ -1004,8 +1008,8 @@ input[name="order_confirm_btn"] {
   width: 220px;
 }
 .pay_timer {
-  background: rgba(0, 0, 0, 0) url("/img/buttons/timer_backend.png") no-repeat
-    scroll 0 0;
+  background: rgba(0, 0, 0, 0)
+    url("https/f-change.biz/img/buttons/timer_backend.png") no-repeat scroll 0 0;
   color: #184767;
   font-size: 24px;
   font-weight: bold;
@@ -1165,8 +1169,8 @@ ul.user_lk_menu {
   width: 740px;
 }
 .legko_input {
-  background: url("/img/backs/input_text_back.png") repeat scroll 0 0
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/backs/input_text_back.png") repeat
+    scroll 0 0 rgba(0, 0, 0, 0);
   border: 1px solid #68b9e8;
   height: 25px;
   margin-bottom: 2px;
@@ -1209,8 +1213,8 @@ ul.user_lk_menu {
   text-align: center;
 }
 .site_select {
-  background: url("/img/backs/input_text_back.png") repeat scroll 0 0
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/backs/input_text_back.png") repeat
+    scroll 0 0 rgba(0, 0, 0, 0);
   border: 1px solid #68b9e8;
   height: 25px;
   width: 197px;
@@ -1270,26 +1274,28 @@ ul.user_lk_menu {
   padding: 1px 2px;
 }
 .delete_wallet_btn {
-  background: url("/img/buttons/del_wal_btn.png") no-repeat scroll 0 -26px rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/buttons/del_wal_btn.png") no-repeat
+    scroll 0 -26px rgba(0, 0, 0, 0);
   cursor: pointer;
   display: inline-block;
   height: 26px;
   width: 27px;
 }
 .delete_wallet_btn:hover {
-  background: url("/img/buttons/del_wal_btn.png") no-repeat scroll 0px 0
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/buttons/del_wal_btn.png") no-repeat
+    scroll 0px 0 rgba(0, 0, 0, 0);
 }
 .save_wallet_text_btn {
-  background: url("/img/buttons/save_wal_btn.png") no-repeat scroll 0 -26px rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/buttons/save_wal_btn.png") no-repeat
+    scroll 0 -26px rgba(0, 0, 0, 0);
   cursor: pointer;
   display: inline-block;
   height: 26px;
   width: 27px;
 }
 .save_wallet_text_btn:hover {
-  background: url("/img/buttons/save_wal_btn.png") no-repeat scroll 0px 0
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/buttons/save_wal_btn.png") no-repeat
+    scroll 0px 0 rgba(0, 0, 0, 0);
 }
 .edit_wallet_btn {
 }
@@ -1490,16 +1496,18 @@ table.user_refs_table tr {
   width: 13px;
 }
 .tree_menu_plus {
-  background: rgba(0, 0, 0, 0) url("/img/buttons/struct_minus_btn.png")
-    no-repeat scroll 0 0;
+  background: rgba(0, 0, 0, 0)
+    url("https/f-change.biz/img/buttons/struct_minus_btn.png") no-repeat scroll
+    0 0;
 }
 .tree_menu_minus {
-  background: rgba(0, 0, 0, 0) url("/img/buttons/struct_plus_btn.png") no-repeat
-    scroll 0 0;
+  background: rgba(0, 0, 0, 0)
+    url("https/f-change.biz/img/buttons/struct_plus_btn.png") no-repeat scroll 0
+    0;
 }
 span.level_parthner_circle {
-  background: url("/img/level_circle_back.png") no-repeat scroll 0 5px
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/level_circle_back.png") no-repeat
+    scroll 0 5px rgba(0, 0, 0, 0);
   display: inline-block;
   font-size: 13px;
   font-weight: bold;
@@ -1518,11 +1526,12 @@ span.level_parthner_circle {
   width: 20px;
 }
 .user_in_favorites_icon {
-  background: url("/img/buttons/fovorites.png") repeat scroll 0 0
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/buttons/fovorites.png") repeat scroll
+    0 0 rgba(0, 0, 0, 0);
 }
 .user_no_favorites_icon {
-  background: url("/img/buttons/fovorites.png") repeat scroll -20px 0 rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/buttons/fovorites.png") repeat scroll -20px
+    0 rgba(0, 0, 0, 0);
 }
 span.dollar_icons {
   cursor: pointer;
@@ -1531,25 +1540,28 @@ span.dollar_icons {
   width: 20px;
 }
 span.dollar_icons.dollar_icons_num_0 {
-  background: url("/img/buttons/dollar_icons.png") no-repeat scroll 0 0
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/buttons/dollar_icons.png") no-repeat
+    scroll 0 0 rgba(0, 0, 0, 0);
 }
 span.dollar_icons.dollar_icons_num_1 {
-  background: url("/img/buttons/dollar_icons.png") no-repeat scroll -20px 0 rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/buttons/dollar_icons.png") no-repeat
+    scroll -20px 0 rgba(0, 0, 0, 0);
 }
 span.dollar_icons.dollar_icons_num_2 {
-  background: url("/img/buttons/dollar_icons.png") no-repeat scroll -40px 0 rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/buttons/dollar_icons.png") no-repeat
+    scroll -40px 0 rgba(0, 0, 0, 0);
 }
 .user_tree_info_btn {
-  background: url("/img/buttons/info_icon.png") no-repeat scroll 0 0
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/buttons/info_icon.png") no-repeat
+    scroll 0 0 rgba(0, 0, 0, 0);
   cursor: pointer;
   display: inline-block;
   height: 20px;
   width: 20px;
 }
 .user_tree_info_btn.open_user_tree_info_btn {
-  background: url("/img/buttons/info_icon.png") no-repeat scroll -20px 0 rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/buttons/info_icon.png") no-repeat
+    scroll -20px 0 rgba(0, 0, 0, 0);
 }
 span.tree_user_full {
 }
@@ -1604,8 +1616,8 @@ div.podtree {
   width: 248px;
 }
 .finance_wallet {
-  background: url("/img/finances/finance_wallet_back.png") no-repeat scroll 0 0
-    rgba(0, 0, 0, 0);
+  background: url("https/f-change.biz/img/finances/finance_wallet_back.png")
+    no-repeat scroll 0 0 rgba(0, 0, 0, 0);
   float: left;
   height: 141px;
   text-align: center;
@@ -1630,8 +1642,8 @@ div.podtree {
 .finance_add_balance_btn,
 .finance_vyvod_btn,
 .finance_buy_fran_btn {
-  background: url("/img/finances/finance_btn_add.png") no-repeat scroll 25px 3px
-    #0a7cc4;
+  background: url("https/f-change.biz/img/finances/finance_btn_add.png")
+    no-repeat scroll 25px 3px #0a7cc4;
   color: white;
   display: inline-block;
   font-size: 16px;
@@ -1643,8 +1655,8 @@ div.podtree {
   width: 150px;
 }
 .finance_vyvod_btn {
-  background: url("/img/finances/finance_btn_add_1.png") no-repeat scroll 25px
-    3px #0a7cc4;
+  background: url("https/f-change.biz/img/finances/finance_btn_add_1.png")
+    no-repeat scroll 25px 3px #0a7cc4;
 }
 .vyvods_list_wrap {
   text-align: center;
@@ -2034,8 +2046,8 @@ p.one_user_wallet_rekvisites_text {
 }
 .site_select_item {
   -moz-appearance: none;
-  background: rgba(0, 0, 0, 0) url("/img/select_strelka.png") no-repeat scroll
-    100% 50%;
+  background: rgba(0, 0, 0, 0) url("https/f-change.biz/img/select_strelka.png")
+    no-repeat scroll 100% 50%;
   border: 1px solid #ddd;
   border-radius: 3px;
   color: #525867;
@@ -2178,8 +2190,9 @@ input.orange_btn {
   padding: 10px 25px;
 }
 .step_checked_info {
-  background: rgba(0, 0, 0, 0) url("/img/buttons/check_rekvizities.png")
-    no-repeat scroll 0 50%;
+  background: rgba(0, 0, 0, 0)
+    url("https/f-change.biz/img/buttons/check_rekvizities.png") no-repeat scroll
+    0 50%;
   color: #01c386;
   cursor: pointer;
   display: none;
@@ -2236,7 +2249,7 @@ input.orange_btn {
   color: #01c386;
 }
 .step_title_wrap .check_sp {
-  background-image: url("/img/buttons/check_rekvizities.png");
+  background-image: url("https/f-change.biz/img/buttons/check_rekvizities.png");
   background-position: 17px 14px;
   display: inline-block;
   height: 13px;
@@ -2440,8 +2453,8 @@ input.orange_btn {
   font-weight: bold;
 }
 .lk_valutes_rub {
-  background: rgba(0, 0, 0, 0) url("/img/valutes/rub.png") no-repeat scroll 0
-    50%;
+  background: rgba(0, 0, 0, 0) url("https/f-change.biz/img/valutes/rub.png")
+    no-repeat scroll 0 50%;
   position: relative;
   color: #d5aa8d;
   margin-left: 20px;
@@ -2449,8 +2462,8 @@ input.orange_btn {
 }
 
 .lk_valutes_usd {
-  background: rgba(0, 0, 0, 0) url("/img/valutes/usd.png") no-repeat scroll 3px
-    50%;
+  background: rgba(0, 0, 0, 0) url("https/f-change.biz/img/valutes/usd.png")
+    no-repeat scroll 3px 50%;
   color: #02c083;
   font-size: 18px;
   margin-left: 10px;
@@ -2459,8 +2472,8 @@ input.orange_btn {
 }
 
 .lk_valutes_eur {
-  background: rgba(0, 0, 0, 0) url("/img/valutes/euro.png") no-repeat scroll 1px
-    50%;
+  background: rgba(0, 0, 0, 0) url("https/f-change.biz/img/valutes/euro.png")
+    no-repeat scroll 1px 50%;
   position: relative;
   color: #43c7d7;
   margin-left: 20px;
@@ -2468,8 +2481,8 @@ input.orange_btn {
 }
 
 .lk_valutes_uah {
-  background: rgba(0, 0, 0, 0) url("/img/valutes/uah.png") no-repeat scroll 2px
-    50%;
+  background: rgba(0, 0, 0, 0) url("https/f-change.biz/img/valutes/uah.png")
+    no-repeat scroll 2px 50%;
   position: relative;
   color: #3aa0ff;
   margin-left: 20px;
@@ -2477,8 +2490,8 @@ input.orange_btn {
 }
 
 .lk_valutes_btc {
-  background: rgba(0, 0, 0, 0) url("/img/valutes/btc.png") no-repeat scroll 0
-    50%;
+  background: rgba(0, 0, 0, 0) url("https/f-change.biz/img/valutes/btc.png")
+    no-repeat scroll 0 50%;
   color: #ffc841;
   margin-left: 20px;
   margin-top: -1px;
@@ -2591,8 +2604,9 @@ div.orange_btn {
   padding-top: 12px;
 }
 .history_calendar_input {
-  background: rgba(0, 0, 0, 0) url("/img/finances/history_finances_input.png")
-    no-repeat scroll 0 0;
+  background: rgba(0, 0, 0, 0)
+    url("https/f-change.biz/img/finances/history_finances_input.png") no-repeat
+    scroll 0 0;
   border: 1px solid #ddd;
   border-radius: 5px;
   color: #898989;
@@ -2610,8 +2624,8 @@ div.orange_btn {
 }
 .site_select_item {
   -moz-appearance: none;
-  background: rgba(0, 0, 0, 0) url("/img/select_strelka.png") no-repeat scroll
-    100% 50%;
+  background: rgba(0, 0, 0, 0) url("https/f-change.biz/img/select_strelka.png")
+    no-repeat scroll 100% 50%;
   border: 1px solid #ddd;
   border-radius: 3px;
   color: #525867;
@@ -2807,8 +2821,9 @@ table.user_refs_table.user_refs_table_titles strong {
   font-weight: 500;
 }
 .struct_hint_info {
-  background: rgba(0, 0, 0, 0) url("/img/struct/struct_hint_info.png") no-repeat
-    scroll 50% 0;
+  background: rgba(0, 0, 0, 0)
+    url("https/f-change.biz/img/struct/struct_hint_info.png") no-repeat scroll
+    50% 0;
   cursor: help;
   display: inline-block;
   height: 13px;
@@ -2839,40 +2854,45 @@ table.user_refs_table td.refs_2_col .fio_container {
 }
 
 .hranuitel_state_btn {
-  background: rgba(0, 0, 0, 0) url("/img/struct/visa_inactive.png") no-repeat
-    scroll 50% 50%;
+  background: rgba(0, 0, 0, 0)
+    url("https/f-change.biz/img/struct/visa_inactive.png") no-repeat scroll 50%
+    50%;
   cursor: help;
   display: inline-block;
   height: 20px;
   width: 20px;
 }
 .hranuitel_state_btn.hranuitel_state_on {
-  background: rgba(0, 0, 0, 0) url("/img/struct/visa_active.png") no-repeat
-    scroll 50% 50%;
+  background: rgba(0, 0, 0, 0)
+    url("https/f-change.biz/img/struct/visa_active.png") no-repeat scroll 50%
+    50%;
 }
 .struct_controls_wrap.open_user_tree {
   border: 2px solid #5d9cec;
   margin: 0;
 }
 .user_tree_info_btn {
-  background: rgba(0, 0, 0, 0) url("/img/struct/struct_show_details.png")
-    no-repeat scroll 50% 50%;
+  background: rgba(0, 0, 0, 0)
+    url("https/f-change.biz/img/struct/struct_show_details.png") no-repeat
+    scroll 50% 50%;
   cursor: pointer;
   display: inline-block;
   height: 20px;
   width: 20px;
 }
 .user_tree_info_btn.open_user_tree_info_btn {
-  background: rgba(0, 0, 0, 0) url("/img/struct/struct_show_details.png")
-    no-repeat scroll 50% 50%;
+  background: rgba(0, 0, 0, 0)
+    url("https/f-change.biz/img/struct/struct_show_details.png") no-repeat
+    scroll 50% 50%;
 }
 .tree_user_full_personal_tbl {
   margin-top: 1px;
   width: 100%;
 }
 .obmens_strelka_img {
-  background: rgba(0, 0, 0, 0) url("/img/buttons/blue_right_arrow.png")
-    no-repeat scroll 0 0 / cover;
+  background: rgba(0, 0, 0, 0)
+    url("https/f-change.biz/img/buttons/blue_right_arrow.png") no-repeat scroll
+    0 0 / cover;
   height: 25px;
   width: 25px;
 }
@@ -2962,7 +2982,8 @@ table.user_refs_table td.refs_2_col .fio_container {
   display: none;
 }
 .wallet_choice_strelka {
-  background: #cccccc url("/img/buttons/wallet_choice_strelka_hover.png")
+  background: #cccccc
+    url("https/f-change.biz/img/buttons/wallet_choice_strelka_hover.png")
     no-repeat scroll 53% 53%;
   border-left: 1px solid #ebebeb;
   cursor: pointer;
@@ -2973,7 +2994,8 @@ table.user_refs_table td.refs_2_col .fio_container {
   width: 23px;
 }
 .wallet_choice_strelka:hover {
-  background: #cccccc url("/img/buttons/wallet_choice_strelka.png") no-repeat
+  background: #cccccc
+    url("https/f-change.biz/img/buttons/wallet_choice_strelka.png") no-repeat
     scroll 53% 53%;
 }
 .obmen_wallet_choice .one_wallet_for_choice {
@@ -3575,8 +3597,9 @@ div.form_errors.add_merchant_error {
   top: 23px;
 }
 .merchant_napravlen_strelka {
-  background: rgba(0, 0, 0, 0) url("/img/buttons/blue_right_arrow.png")
-    no-repeat scroll 0 13px;
+  background: rgba(0, 0, 0, 0)
+    url("https/f-change.biz/img/buttons/blue_right_arrow.png") no-repeat scroll
+    0 13px;
   float: left;
   height: 100px;
   width: 60px;
@@ -4748,8 +4771,9 @@ span.modal_big_text {
 }
 .load_api_link {
   display: inline-block;
-  background: rgba(0, 0, 0, 0) url("/img/buttons/download_arhive.png") no-repeat
-    scroll 15px 7px;
+  background: rgba(0, 0, 0, 0)
+    url("https/f-change.biz/img/buttons/download_arhive.png") no-repeat scroll
+    15px 7px;
   background-color: rgba(0, 0, 0, 0);
   height: 56px;
   padding-left: 97px;
@@ -5269,7 +5293,7 @@ td.wallet_fin_stralka_kontainer img {
 
 /*
 .site_logo {
-    background: url("/img/tovar/f-shapka.png") no-repeat scroll 35px 0px, url("/img/buttons/logo.png") no-repeat scroll 0 16px;
+    background: url("https/f-change.biz/img/tovar/f-shapka.png") no-repeat scroll 35px 0px, url("https/f-change.biz/img/buttons/logo.png") no-repeat scroll 0 16px;
     top: 25px;
     height: 62px;
 }
@@ -5288,7 +5312,7 @@ td.wallet_fin_stralka_kontainer img {
     left: 284px;
     top: 95px;
     background-color: #ccc;
-    background: url("/img/tovar/f-elka.png") no-repeat;
+    background: url("https/f-change.biz/img/tovar/f-elka.png") no-repeat;
     background-size: contain;
     background-position: center;
     //position: absolute;
