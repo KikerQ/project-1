@@ -112,8 +112,8 @@ body {
 }
 
 .site_logo {
-  background-image: url("https://f-change.biz/img/buttons/logo.png") repeat
-    scroll 0 0 rgba(0, 0, 0, 0);
+  background: url("https://f-change.biz/img/buttons/logo.png") repeat scroll 0 0
+    rgba(0, 0, 0, 0);
   width: 302px;
   height: 46px;
 }
