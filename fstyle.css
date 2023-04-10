@@ -65,11 +65,11 @@ body {
 }
 
 body > .full_page_wrap {
-  height: auto;
-  min-height: 100%;
+  /*  height: auto;
+  min-height: 100%; */
 }
 .full_page {
-  padding-bottom: 177px;
+  /* padding-bottom: 177px; */
   margin: 0 auto;
   width: 1000px;
 } /* must be same height as the footer */
@@ -81,15 +81,16 @@ body > .full_page_wrap {
 }
 
 /* CLEAR FIX*/
-.clearfix:after {
+/* .clearfix:after {
   content: ".";
   display: block;
   height: 0;
   clear: both;
   visibility: hidden;
-}
+} */
 .clearfix {
-  display: inline-block;
+  display: flex;
+  flex-direction: column;
 }
 
 /* Hides from IE-mac \*/
