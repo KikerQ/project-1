@@ -31,7 +31,7 @@ a,
 strong,
 b,
 i {
-  font-size: 23px;
+  font-size: 13px;
 }
 h1,
 h2,
@@ -47,9 +47,7 @@ b {
 html,
 body,
 .full_page_wrap {
-  max-width: 320px;
-  margin: 0 auto;
-  overflow: hidden;
+  height: 100%;
 }
 
 a {
@@ -66,15 +64,15 @@ body {
   background: url("https://f-change.biz/img/backs/body_back.png");
 }
 
-/* body > .full_page_wrap {
+body > .full_page_wrap {
   height: auto;
   min-height: 100%;
-} */
+}
 .full_page {
+  padding-bottom: 177px;
   margin: 0 auto;
-  width: 100%;
+  width: 1000px;
 } /* must be same height as the footer */
-
 #footer {
   position: relative;
   margin-top: -177px; /* negative value of footer height */
@@ -91,39 +89,25 @@ body {
   visibility: hidden;
 }
 .clearfix {
-  display: flex;
-  flex-direction: column;
+  display: inline-block;
 }
 
 /* Hides from IE-mac \*/
 * html .clearfix {
   height: 1%;
 }
-
+.clearfix {
+  display: block;
+}
 /* End hide from IE-mac */
 
 .arial_font {
   font-family: Verdana, Arial, Helvetica, sans-serif;
 }
-/* ---HEADER--- */
+
 .header {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.change_lang_head_wrap {
-  max-width: 143px;
-}
-
-.current_lang_container {
-  color: #3a3a3a;
-  cursor: pointer;
-}
-
-.current_lang_container {
-  display: flex;
-  justify-content: center;
+  height: 130px;
+  overflow: hidden;
 }
 
 .site_logo {
@@ -4477,7 +4461,16 @@ span.modal_big_text {
   font-weight: bold;
 }
 /*начало: стили переключалки языков*/
-
+.change_lang_head_wrap {
+  position: absolute;
+  margin-left: 430px;
+}
+.current_lang_container {
+  color: #3a3a3a;
+  cursor: default;
+  padding-bottom: 3px;
+  cursor: pointer;
+}
 .current_lang_container:hover .choise_other_lang {
   display: block;
 }
