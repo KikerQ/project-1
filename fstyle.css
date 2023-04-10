@@ -50,6 +50,14 @@ body,
   height: 100%;
 }
 
+@media (max-width: 320px) {
+  body,
+  .full_page_wrap {
+    max-width: 320px;
+    height: 0;
+  }
+}
+
 a {
   text-decoration: none;
   color: #43aee6;
@@ -64,15 +72,22 @@ body {
   background: url("https://f-change.biz/img/backs/body_back.png");
 }
 
-body > .full_page_wrap {
+/* body > .full_page_wrap {
   height: auto;
   min-height: 100%;
-}
+} */
 .full_page {
   padding-bottom: 177px;
   margin: 0 auto;
   width: 1000px;
 } /* must be same height as the footer */
+
+@media (max-width: 320px) {
+  .full_page {
+    padding: 0;
+    max-width: 320px;
+  }
+}
 #footer {
   position: relative;
   margin-top: -177px; /* negative value of footer height */
