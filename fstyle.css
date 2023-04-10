@@ -31,7 +31,7 @@ a,
 strong,
 b,
 i {
-  font-size: 13px;
+  font-size: 23px;
 }
 h1,
 h2,
@@ -47,15 +47,9 @@ b {
 html,
 body,
 .full_page_wrap {
-  height: 100%;
-}
-
-@media (max-width: 320px) {
-  body,
-  .full_page_wrap {
-    max-width: 320px;
-    height: 0;
-  }
+  max-width: 320px;
+  margin: 0 auto;
+  overflow: hidden;
 }
 
 a {
@@ -77,17 +71,10 @@ body {
   min-height: 100%;
 } */
 .full_page {
-  padding-bottom: 177px;
   margin: 0 auto;
-  width: 1000px;
+  width: 100%;
 } /* must be same height as the footer */
 
-@media (max-width: 320px) {
-  .full_page {
-    padding: 0;
-    max-width: 320px;
-  }
-}
 #footer {
   position: relative;
   margin-top: -177px; /* negative value of footer height */
@@ -112,18 +99,31 @@ body {
 * html .clearfix {
   height: 1%;
 }
-.clearfix {
-  display: block;
-}
+
 /* End hide from IE-mac */
 
 .arial_font {
   font-family: Verdana, Arial, Helvetica, sans-serif;
 }
-
+/* ---HEADER--- */
 .header {
-  height: 130px;
-  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.change_lang_head_wrap {
+  max-width: 143px;
+}
+
+.current_lang_container {
+  color: #3a3a3a;
+  cursor: pointer;
+}
+
+.current_lang_container {
+  display: flex;
+  justify-content: center;
 }
 
 .site_logo {
@@ -4477,16 +4477,7 @@ span.modal_big_text {
   font-weight: bold;
 }
 /*начало: стили переключалки языков*/
-.change_lang_head_wrap {
-  position: absolute;
-  margin-left: 430px;
-}
-.current_lang_container {
-  color: #3a3a3a;
-  cursor: default;
-  padding-bottom: 3px;
-  cursor: pointer;
-}
+
 .current_lang_container:hover .choise_other_lang {
   display: block;
 }
